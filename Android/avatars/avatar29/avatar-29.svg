@@ -1,0 +1,13 @@
+<svg width="38" height="53" viewBox="0 0 38 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1648_2023" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="38" height="53">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.95 19.3981C37.95 9.11367 29.6113 0.776733 19.3269 0.776733C9.04424 0.776733 0.70459 9.11367 0.70459 19.3981C0.70459 33.3607 18.9459 52.4855 18.9459 52.4855C18.9459 52.4855 37.95 33.4895 37.95 19.3981Z" fill="#C45F2A"/>
+</mask>
+<g mask="url(#mask0_1648_2023)">
+<rect x="0.70459" y="0.776733" width="18.2073" height="51.7088" fill="#BD73D6"/>
+<rect x="18.775" y="0.776733" width="19.1749" height="51.7088" fill="#1A751D"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.1026 20.478C31.1026 26.9373 25.8661 32.1757 19.4031 32.1757C12.9402 32.1757 7.70459 26.9373 7.70459 20.478C7.70459 14.0151 12.9402 8.77673 19.4031 8.77673C25.8661 8.77673 31.1026 14.0151 31.1026 20.478Z" fill="white"/>
+<path d="M10.7046 18.1678C10.7046 16.848 12.0226 15.7767 13.6508 15.7767C15.2744 15.7767 16.5933 16.848 16.5933 18.1678" stroke="#BD73D6" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.7046 18.1678C21.7046 16.848 23.0226 15.7767 24.649 15.7767C26.2726 15.7767 27.5933 16.848 27.5933 18.1678" stroke="#BD73D6" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.7046 22.7767C11.7046 22.7767 13.0933 28.201 19.5009 28.201C25.9067 28.201 27.6528 22.7767 27.6528 22.7767" stroke="#BD73D6" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
